@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UnBlogMásDeCafé</title>
+  
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class = "modo-claro" onload="obtenerDatos()">
+    
+    <header class = "header">
+        <div class = "contenedor">
+            <button id= "modo-oscuro">Modo claro/oscuro</button>
+            <div class = "barra">
+                <a class = "logo" href="index.html">
+                    <h1 class = "logo_nombre">Unblog<span class = "logo_boldne">MásDeCafé</span></h1>
+                </a>
+                
+                <nav class = "navegacion"> 
+                    <a href="contacto.html" class="navegacion_enlace">Contacto</a>
+                    <a href="iniciarSesion.html" class="navegacion_enlace">Iniciar Sesion</a>
+                    <button id = "logout"> Cerrar Sesion </button>
+                </nav>
+            </div>
+        </div>
+
+        <div class="header_texto">
+            <h2 class = "no-margin" > Donde los amantes del café se reunen </h2>
+            <p class = "no-margin"> Disfruta tu estadia!</p>
+        </div>
+        
+    </header>
+    <main>
+        <h2>
+            Inicie sesión
+        </h2>
+        <div class="container-login">
+          
+            
+            <form id="login">
+                <label>
+                    <input type="text" placeholder="Usuario" id="input-user">
+                </label>
+                <label>
+                    <input type="text" placeholder="Contraseña" id="input-pass">
+                </label>
+                <label>
+                    <input type="submit" value="Ingresar">
+                </label>
+                <p id="logint"> </p>
+            </form>            
+        </div>
+        <div class="container-usuarios">
+            <table>              
+            </table>
+        </div>
+        
+    </main>
+    <script src="Js/main.js"></script>
+</body>
+</html>

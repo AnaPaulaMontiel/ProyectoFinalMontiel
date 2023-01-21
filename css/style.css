@@ -1,0 +1,184 @@
+.modo-claro {
+    background-color: rgb(235, 222, 200);
+    color: black;
+   
+}
+
+.modo-oscuro {
+    background-color: rgb(52, 42, 36);
+    color:white
+}
+
+
+:root {
+ 
+
+    --primario: #784D3C;
+    --blanco: #ffffff;
+    --negro: #000000;
+
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    font-family: var (--fuenteParrafos);
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+
+.contenedor {
+    max-width: 120 rem;
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,h2,h3,h4 {
+    font-family: var(--fuenteHeading);
+}
+h1 {
+    font-size: 4.8rem;
+}
+h2 {
+    font-size: 4rem;
+}
+h3 {
+    font-size: 3.2rem;
+}
+h4 {
+    font-size: 2.8rem;
+}
+img {
+    max-width: 100%;
+}
+.no-margin {
+    margin:0;
+}
+.no-padding {
+    padding: 0;
+}
+.centrar-texto {
+    text-align: center;
+}
+
+.header {
+    background-image: url(../img/coffeeimg.jpg);
+    height: 45rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header_texto {
+    text-align: center;
+    color: var(--blanco);
+}
+
+.barra {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: var(--blanco)
+}
+
+.logo_nombre {
+    font-weight: 400;
+}
+
+.logo_boldne {
+    font-weight: 700;
+}
+
+.navegacion_enlace {
+    color: var(--blanco);
+}
+
+.contenido-inicio {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.blog-entry {
+margin-bottom: 20px;
+padding: 10px;
+border: 3px solid rgb(0, 0, 0);
+border-radius: 5px;
+}
+  
+.blog-entry img {
+max-width: 100%;
+}
+ 
+.blog-entry .username {
+font-weight: bold;
+margin-bottom: 5px;
+}
+  
+.blog-entry .post {
+margin-bottom: 5px;
+}
+  
+.blog-entry .date {
+font-size: 0.8em;
+color: #999;
+}
+
+.mi-imagen {
+    width: 40%;
+    height: auto;
+}
+
+form {
+    background-color: #635757;
+    padding: 20px;
+}
+  
+
+label {
+    font-size: 18px;
+}
+  
+
+input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #e1be9d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+input[type="submit"]:hover {
+    background-color: #392d23;
+}
+
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: none;
+  }

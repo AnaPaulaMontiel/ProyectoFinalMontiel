@@ -1,0 +1,143 @@
+[
+    {
+        "nombreDeUsuario": "cafelover123",
+        "post": "¡Acabo de probar un café con sabor a chocolate y nueces y está increíble!",
+        "img": "img/comidacafe.jpg",
+        "fecha": "2022-12-01",
+        "hora": "09:30"
+    },
+    {
+        "nombreDeUsuario": "coffeegeek",
+        "post": "El café de Colombia es el mejor del mundo. ¡Nada se compara con su sabor suave y afrutado!",
+        "img": "img/1.webp",
+        "fecha": "2022-12-01",
+        "hora": "10:15"
+    },
+    {
+        "nombreDeUsuario": "coffee_fanatic",
+        "post": "¡Acabo de descubrir una nueva técnica de preparación de café y el resultado es impresionante!",
+        "img": "img/2.jpg",
+        "fecha": "2022-12-01",
+        "hora": "11:00"
+    },
+    {
+        "nombreDeUsuario": "coffeeholic",
+        "post": "No puedo empezar mi día sin una taza de café. ¡Es mi adicción!",
+        "img": "img/baristablog.jpg",
+        "fecha": "2022-12-01",
+        "hora": "11:30"
+    },
+    {
+        "nombreDeUsuario": "coffee_lover",
+        "post": "¡Acabo de probar un café con sabor a caramelo y está delicioso!",
+        "img": "img/coffe.jpg",
+        "fecha": "2022-12-01",
+        "hora": "12:00"
+    },
+    {
+        "nombreDeUsuario": "coffee_junkie",
+        "post": "El café de Kenia es conocido por su sabor único y complejo. ¡Definitivamente lo recomiendo!",
+        "img": "img/coffe2.jpg",
+        "fecha": "2022-12-01",
+        "hora": "12:30"
+    },
+    {
+        "nombreDeUsuario": "coffeegeek2020",
+        "post": "¡Acabo de probar un café de Colombia con notas de frutos rojos y cítricos! ¡Increíble sabor y aroma!",
+        "img": "img/9.jpg",
+        "fecha": "2022-11-20",
+        "hora": "14:00"
+    },
+    {
+        "nombreDeUsuario": "baristalove",
+        "post": "¡Acabo de preparar un café con leche con una crema de espuma impresionante! ¡La clave es el grano de café de alta calidad!",
+        "img": "img/comidacafe.jpg",
+        "fecha": "2022-11-19",
+        "hora": "11:00"
+    },
+    {
+        "nombreDeUsuario": "coffeesnob",
+        "post": "¡Acabo de probar un café de Ethiopia con notas de jazmín y limón! ¡Sin duda uno de los mejores que he probado!",
+        "img": "img/curso1.jpg",
+        "fecha": "2022-11-18",
+        "hora": "09:00"
+    },
+    {
+        "nombreDeUsuario": "coffeeholic",
+        "post": "¡Acabo de probar un café de Brasil con notas de chocolate y caramelo! ¡Un sabor irresistible!",
+        "img": "img/curso2.jpg",
+        "fecha": "2022-11-22",
+        "hora": "16:00"
+    },
+    {
+        "nombreDeUsuario": "coffeeaddict",
+        "post": "¡Acabo de preparar un café americano con un aroma increíble! ¡La clave es el tiempo de extracción!",
+        "img": "img/curso3.jpg",
+        "fecha": "2022-11-21",
+        "hora": "08:00"
+    },
+    {
+        "nombreDeUsuario": "coffeejunkie",
+        "post": "¡Acabo de probar un café de Kenia con notas de frutos tropicales y cítricos! ¡Sin duda uno de los mejores que he probado!",
+        "img": "img/imgblog.jpg",
+        "fecha": "2022-11-20",
+        "hora": "12:00"
+    },
+    {
+        "nombreDeUsuario": "coffeesipper33",
+        "post": "¡Acabo de preparar un café con hielo con un sabor fresco y revitalizante! ¡Ideal para el verano!",
+        "img": "img/maquinacafe.jpg",
+        "fecha": "2022-07-20",
+        "hora": "10:00"
+    },
+    {
+        "nombreDeUsuario": "coffeeenthusiast567676",
+        "post": "¡Acabo de probar un café de Sumatra con notas de especias y hierbas! ¡Increíble sabor y aroma!",
+        "img": "img/nosotros.jpg",
+        "fecha": "2022-11-19",
+        "hora": "15:00"
+    },
+    {
+        "nombreDeUsuario": "coffeelover7",
+        "post": "¡Acabo de preparar un café con leche con una crema de espuma impresionante! ¡La clave es el grano de café de alta calidad!",
+        "img": "img/tazacorazon.jpg",
+        "fecha": "2022-11-18",
+        "hora": "09:00"
+    },
+    {
+        "nombreDeUsuario": "coffeeholic97",
+        "post": "¡Acabo de preparar un café con hielo con un sabor fresco y revitalizante! ¡Ideal para el verano!",
+        "img": "img/4.jpg",
+        "fecha": "2022-07-20",
+        "hora": "10:00"
+    },
+    {
+        "nombreDeUsuario": "coffeeaddict12",
+        "post": "¡Acabo de probar un café de Guatemala con notas de chocolate y naranja! ¡Un sabor irresistible!",
+        "img": "img/5.jpg",
+        "fecha": "2022-11-19",
+        "hora": "15:00"
+    },
+    {
+        "nombreDeUsuario": "coffeelover324",
+        "post": "¡Acabo de preparar un café con leche con una crema de espuma impresionante! ¡La clave es el grano de café de alta calidad!",
+        "img": "img/6.jpg",
+        "fecha": "2022-11-18",
+        "hora": "09:00"
+    },
+    {
+        "nombreDeUsuario": "coffeeenthusiast54",
+        "post": "¡Acabo de probar un café de Jamaica con notas de frutas tropicales y especias! ¡Increíble sabor y aroma!",
+        "img": "img/7.jpg",
+        "fecha": "2022-11-17",
+        "hora": "12:00"
+    },
+    {
+        "nombreDeUsuario": "coffeejunkie1",
+        "post": "¡Acabo de preparar un café mocha con un sabor a chocolate y café irresistible! ¡La clave es el chocolate de alta calidad!",
+        "img": "img/8.jpg",
+        "fecha": "2022-11-16",
+        "hora": "08:00"
+    }
+]
+    

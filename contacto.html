@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UnBlogMásDeCafé</title>
+  
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class = "modo-claro" onload="obtenerDatos()">
+    <header class = "header">
+        <div class = "contenedor">
+            <button id= "modo-oscuro">Modo claro/oscuro</button>
+            <div class = "barra">
+                <a class = "logo" href="index.html">
+                    <h1 class = "logo_nombre">Unblog<span class = "logo_boldne">MásDeCafé</span></h1>
+                </a>
+                
+                <nav class = "navegacion"> 
+                    <a href="contacto.html" class="navegacion_enlace">Contacto</a>
+                    <a href="iniciarSesion.html" class="navegacion_enlace">Iniciar Sesion</a>
+                </nav>
+            </div>
+        </div>
+
+        <div class="header_texto">
+            <h2 class = "no-margin" > Donde los amantes del café se reunen </h2>
+            <p class = "no-margin"> Disfruta tu estadia!</p>
+        </div>
+
+    </header>
+    <form onsubmit="return validateForm()">
+        <h3>Contacta directamente con nosotros de manera segura</h3>
+        <label for="name">Nombre:</label>
+        <input type="text" id="name" name="name">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+        <label for="message">Mensaje:</label>
+        <textarea id="message" name="message"></textarea>
+        <input type="submit" value="Enviar">
+    </form>
+    <script src="Js/main.js"></script>
+</body>
+</html>
